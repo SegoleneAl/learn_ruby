@@ -43,9 +43,9 @@ describe "Simon says" do
     # take one *or* two arguments?
     #
     # Hint: *default values*
-    it "should repeat a number of times" do
-      expect(repeat("hello", 3)).to eq("hello hello hello")
-    end
+  #  it "should repeat a number of times" do
+  #    expect(repeat("hello", 3)).to eq("hello hello hello")
+  #  end
   end
 
   describe "start_of_word" do
